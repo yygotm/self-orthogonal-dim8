@@ -1,0 +1,27 @@
+{
+  "status": "infeasible",
+  "y": [
+    {
+      "row": 1,
+      "multiplier": 13,
+      "label": "D A44 >="
+    },
+    {
+      "row": 3,
+      "multiplier": 13,
+      "label": "D A48 >="
+    },
+    {
+      "row": 4,
+      "multiplier": 435,
+      "label": "D A60 <="
+    },
+    {
+      "row": 8,
+      "multiplier": 2,
+      "label": "residual B2>=0"
+    }
+  ],
+  "pivots": 7,
+  "seconds": 0.0009731999998621177
+}

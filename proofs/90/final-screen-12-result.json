@@ -1,0 +1,32 @@
+{
+  "status": "infeasible",
+  "y": [
+    {
+      "row": 1,
+      "multiplier": 17,
+      "label": "D A44 >="
+    },
+    {
+      "row": 4,
+      "multiplier": 17,
+      "label": "D A52 <="
+    },
+    {
+      "row": 8,
+      "multiplier": 17,
+      "label": "residual first moment >="
+    },
+    {
+      "row": 9,
+      "multiplier": 11,
+      "label": "residual B2>=0"
+    },
+    {
+      "row": 16,
+      "multiplier": 176,
+      "label": "R38 A22 <="
+    }
+  ],
+  "pivots": 7,
+  "seconds": 0.0013813000005029608
+}

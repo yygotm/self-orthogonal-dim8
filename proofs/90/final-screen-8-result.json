@@ -1,0 +1,17 @@
+{
+  "status": "infeasible",
+  "y": [
+    {
+      "row": 2,
+      "multiplier": 1,
+      "label": "D A48 <="
+    },
+    {
+      "row": 16,
+      "multiplier": 1,
+      "label": "R38 A20 >="
+    }
+  ],
+  "pivots": 8,
+  "seconds": 0.0019417000003159046
+}

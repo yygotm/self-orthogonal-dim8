@@ -1,0 +1,367 @@
+[
+  {
+    "index": 0,
+    "A": {
+      "44": 96,
+      "48": 19,
+      "52": 12
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "A": {
+      "44": 95,
+      "48": 22,
+      "52": 9,
+      "56": 1
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "A": {
+      "44": 94,
+      "48": 25,
+      "52": 6,
+      "56": 2
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "A": {
+      "44": 93,
+      "48": 28,
+      "52": 3,
+      "56": 3
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "A": {
+      "44": 92,
+      "48": 31,
+      "56": 4
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 56,
+        "status": "feasible"
+      },
+      {
+        "anchor": 48,
+        "status": "feasible"
+      },
+      {
+        "anchor": 44,
+        "status": "feasible"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "A": {
+      "44": 93,
+      "48": 27,
+      "52": 6,
+      "60": 1
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "A": {
+      "44": 95,
+      "48": 23,
+      "52": 8,
+      "60": 1
+    },
+    "B2": 1,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "A": {
+      "44": 92,
+      "48": 30,
+      "52": 3,
+      "56": 1,
+      "60": 1
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "feasible"
+      },
+      {
+        "anchor": 60,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "A": {
+      "44": 94,
+      "48": 26,
+      "52": 5,
+      "56": 1,
+      "60": 1
+    },
+    "B2": 1,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "A": {
+      "44": 91,
+      "48": 33,
+      "56": 2,
+      "60": 1
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 60,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "A": {
+      "44": 93,
+      "48": 29,
+      "52": 2,
+      "56": 2,
+      "60": 1
+    },
+    "B2": 1,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "A": {
+      "44": 90,
+      "48": 35,
+      "60": 2
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 60,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "A": {
+      "44": 92,
+      "48": 31,
+      "52": 2,
+      "60": 2
+    },
+    "B2": 1,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "A": {
+      "44": 94,
+      "48": 27,
+      "52": 4,
+      "60": 2
+    },
+    "B2": 2,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "A": {
+      "44": 93,
+      "48": 30,
+      "52": 1,
+      "56": 1,
+      "60": 2
+    },
+    "B2": 2,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "A": {
+      "44": 93,
+      "48": 31,
+      "60": 3
+    },
+    "B2": 3,
+    "tests": [
+      {
+        "anchor": 60,
+        "status": "feasible"
+      },
+      {
+        "anchor": 48,
+        "status": "feasible"
+      },
+      {
+        "anchor": 44,
+        "status": "feasible"
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "A": {
+      "44": 90,
+      "48": 34,
+      "52": 2,
+      "64": 1
+    },
+    "B2": 0,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "feasible"
+      },
+      {
+        "anchor": 64,
+        "status": "feasible"
+      },
+      {
+        "anchor": 48,
+        "status": "feasible"
+      },
+      {
+        "anchor": 44,
+        "status": "feasible"
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "A": {
+      "44": 92,
+      "48": 30,
+      "52": 4,
+      "64": 1
+    },
+    "B2": 1,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "feasible"
+      },
+      {
+        "anchor": 64,
+        "status": "feasible"
+      },
+      {
+        "anchor": 48,
+        "status": "feasible"
+      },
+      {
+        "anchor": 44,
+        "status": "feasible"
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "A": {
+      "44": 91,
+      "48": 33,
+      "52": 1,
+      "56": 1,
+      "64": 1
+    },
+    "B2": 1,
+    "tests": [
+      {
+        "anchor": 52,
+        "status": "infeasible"
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "A": {
+      "44": 91,
+      "48": 34,
+      "60": 1,
+      "64": 1
+    },
+    "B2": 2,
+    "tests": [
+      {
+        "anchor": 60,
+        "status": "infeasible"
+      }
+    ]
+  }
+]

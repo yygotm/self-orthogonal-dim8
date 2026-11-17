@@ -1,0 +1,37 @@
+{
+  "status": "infeasible",
+  "y": [
+    {
+      "row": 1,
+      "multiplier": 362,
+      "label": "D A44 >="
+    },
+    {
+      "row": 3,
+      "multiplier": 445,
+      "label": "D A48 >="
+    },
+    {
+      "row": 6,
+      "multiplier": 621,
+      "label": "D A56 <="
+    },
+    {
+      "row": 8,
+      "multiplier": 1770,
+      "label": "D A60 <="
+    },
+    {
+      "row": 10,
+      "multiplier": 83,
+      "label": "residual first moment <="
+    },
+    {
+      "row": 12,
+      "multiplier": 11,
+      "label": "residual B2>=0"
+    }
+  ],
+  "pivots": 12,
+  "seconds": 0.0030305000000225846
+}
